@@ -1,0 +1,9 @@
+.PostDetails{
+    border: 2px solid yellow;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: aliceblue;
+    color: black;
+    box-shadow: 7px 5px 7px 5px  yellow;
+}

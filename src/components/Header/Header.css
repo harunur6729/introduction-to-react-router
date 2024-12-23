@@ -1,0 +1,13 @@
+nav a{
+    margin-right: 20px;
+}
+
+nav a.active{
+    border: 1px solid yellow;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: white;
+    color: black;
+}
